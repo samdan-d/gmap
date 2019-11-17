@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab8-Sam</string>
+    <string name="google_maps_key">AIzaSyDzRNFAzXgtn-TlTjAwj9guLgHshytukpw</string>
+    <string name="title_activity_maps">None</string>
+    <string name="type">type</string>
+    <string name="distance">distance&#8230;&#8230;&#8230;</string>
+</resources>
